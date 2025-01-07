@@ -1,8 +1,13 @@
-### Hi there
+### Hi there 👋
 **Who am I?**
-- Data Scientist with 2+ years of experience, based in Nairobi, Kenya. I specialize in leveraging data to uncover insights and build impactful solutions.
+- Data Scientist with 2+ years of experience, based in Nairobi, Kenya.
+- I specialize in leveraging data to uncover insights and build 
+  impactful solutions.
 
-- I have extensive experience in data analysis, machine learning, and working with big data. I've also collaborated on end-to-end projects involving data collection, cleaning, analysis, and model deployment.
+- I have extensive experience in data analysis, machine learning, and 
+  working with big data. I've also collaborated on end-to-end 
+  projects involving data collection, cleaning, analysis, and model 
+  deployment.
 
 **What I'm doing?**
 - I am active in data science discussions,research and exploration
@@ -50,22 +55,23 @@
 <!-- GitHub Readme Streak Stats -->
 <p align="center">
   <a href="https://github.com/AmaniWanene">
-    <img title="GitHub Stats" alt="AmaniWanene's streak" src="https://streak-stats.demolab.com/?user=AmaniWanene&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+    <img title="GitHub Stats" alt="AmaniWanene's streak" src="https://streak-stats.demolab.com/?user=AmaniWanene&layout=compact&theme=highcontrast&hide_border=true&bg_color=ffffff&title_color=6A0DAD&icon_color=6A0DAD"/>
   </a>
 </p>
 
 #### Data Science
 
 <p align="center">
-  <a href="https://github.com/AmaniWanene"><img alt="AmaniWanene's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmaniWanene&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/AmaniWanene"><img alt="AmaniWanene's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaniWanene&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="192px"/></a>
-
+  <a href="https://github.com/AmaniWanene"><img alt="AmaniWanene's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmaniWanene&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast&hide_border=true&bg_color=ffffff&title_color=6A0DAD&rank_icon=github&icon_color=6A0DAD" height="160px"/></a>
+  <a href="https://github.com/AmaniWanene"><img alt="AmaniWanene's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaniWanene&layout=compact&theme=highcontrast&hide_border=true&bg_color=ffffff&title_color=6A0DAD&icon_color=6A0DAD&hide=HTML,Jupyter%20Notebook" height="160px"/></a>
   <br/>
-  
 </p>
 
-
-[![AmaniWanene's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmaniWanene&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/AmaniWanene/github-readme-activity-graph)
+[![AmaniWanene's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmaniWanene&bg_color=ffffff&color=6A0DAD&line=6A0DAD&point=ffffff&area=true&hide_border=true)](https://github.com/AmaniWanene/github-readme-activity-graph)
 
 <h3 align="center">Visitor's count</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{AmaniWanene}/count.svg/" alt="AmaniWanene Visitor's count" /></p>
+
+
+
+ 
