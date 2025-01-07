@@ -1,3 +1,23 @@
+### Hi there
+**Who am I?**
+- Data Scientist with 2+ years of experience, based in Nairobi, Kenya. I specialize in leveraging data to uncover insights and build impactful solutions.
+
+- I have extensive experience in data analysis, machine learning, and working with big data. I've also collaborated on end-to-end projects involving data collection, cleaning, analysis, and model deployment.
+
+**What I'm doing?**
+- I am active in data science discussions,research and exploration
+- 📚 Currently learning about deep learning, cloud computing, and 
+   reinforcement learning.
+- 👯 Looking to collaborate on data science projects involving 
+   predictive analytics, NLP, or AI.
+- 🥰 Working on personal data analysis and machine learning projects 
+   to expand my knowledge.
+
+**What I like to discuss**
+- 💬 Ask me about Data Science, Machine Learning, Deep Learning,     
+   Data Engineering, Natural Language Processing (NLP), Big Data, 
+   Data Visualizations, Data Ethics, and Model Deployment.
+
 ## 🌐 Socials:
 
 <p align="center">
