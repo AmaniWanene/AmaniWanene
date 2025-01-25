@@ -53,11 +53,7 @@
 ## 🔥 GitHub stats:
 
 <!-- GitHub Readme Streak Stats -->
-<p align="center">
-  <a href="https://github.com/AmaniWanene">
-    <img title="GitHub Stats" alt="AmaniWanene's streak" src="https://streak-stats.demolab.com/?user=AmaniWanene&layout=compact&theme=highcontrast&hide_border=true&bg_color=ffffff&title_color=6A0DAD&icon_color=6A0DAD"/>
-  </a>
-</p>
+ 
 
 #### Data Science
 
